@@ -1,0 +1,5 @@
+export DB_NAME=template_bot
+export DB_USER=template_bot
+export DB_PASS=shoov3Phezaimahsh7eb2Tii4ohkah8k
+export DB_SERVICE=localhost
+export DB_PORT=5432
